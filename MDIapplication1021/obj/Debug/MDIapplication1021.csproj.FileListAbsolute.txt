@@ -1,0 +1,11 @@
+C:\CC6\MDIapplication1021\bin\Debug\MDIapplication1021.exe.config
+C:\CC6\MDIapplication1021\bin\Debug\MDIapplication1021.exe
+C:\CC6\MDIapplication1021\bin\Debug\MDIapplication1021.pdb
+C:\CC6\MDIapplication1021\obj\Debug\MDIapplication1021.csprojAssemblyReference.cache
+C:\CC6\MDIapplication1021\obj\Debug\MDIapplication1021.ChildForm.resources
+C:\CC6\MDIapplication1021\obj\Debug\MDIapplication1021.MainForm.resources
+C:\CC6\MDIapplication1021\obj\Debug\MDIapplication1021.Properties.Resources.resources
+C:\CC6\MDIapplication1021\obj\Debug\MDIapplication1021.csproj.GenerateResource.cache
+C:\CC6\MDIapplication1021\obj\Debug\MDIapplication1021.csproj.CoreCompileInputs.cache
+C:\CC6\MDIapplication1021\obj\Debug\MDIapplication1021.exe
+C:\CC6\MDIapplication1021\obj\Debug\MDIapplication1021.pdb
